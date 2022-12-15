@@ -1,0 +1,7 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "overrides": [
+    { "files": "src/characters.ts", "options": { "printWidth": 50 } }
+  ]
+}

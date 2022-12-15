@@ -1,0 +1,5 @@
+.LCD {
+  font-size: 60px;
+  font-family: "LCD1602";
+  overflow-wrap: break-word;
+}
